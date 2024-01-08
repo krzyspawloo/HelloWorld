@@ -15,6 +15,7 @@ namespace HelloWorld
             const double PI_NUMBER = 3.14;
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Nazywam się Krzysztof Pawłowski");
+            Console.WriteLine("Witam");
             if (PI_NUMBER > 2)
             {
                 WritePiNumber(PI_NUMBER);
